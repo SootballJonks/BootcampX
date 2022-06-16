@@ -49,7 +49,7 @@ A `student` will have the following attributes:
 
 We can model these entities in an Entity Relation Diagram (ERD):
 
-[PLACEHOLDER]
+![ERD 01](https://github.com/SootballJonks/BootcampX/blob/master/01.png)
 
 ---
 
@@ -78,7 +78,7 @@ A student will be able to submit an `assignment_submissions` for every single `a
 
 We can model these entities in an Entity Relation Diagram (ERD):
 
-[PLACEHOLDER]
+![ERD 02](https://github.com/SootballJonks/BootcampX/blob/master/02.png)
 
 ---
 
@@ -110,4 +110,4 @@ A `student` can create many assistance_requests and a teacher can respond to man
 
 ERD:
 
-[PLACEHOLDER]
+![ERD 03](https://github.com/SootballJonks/BootcampX/blob/master/03.png)
